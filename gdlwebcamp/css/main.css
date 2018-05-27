@@ -311,7 +311,7 @@ p.lorem{
    @media only screen and (min-width:768px){
      nav.navegacion-principal{
        width: 67%;
-       text-align: right;
+       text-align: center;
      }
      nav.navegacion-principal a{
        padding: 10px 10px;
